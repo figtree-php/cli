@@ -1,0 +1,37 @@
+{
+	"name": "figtree-php/cli",
+	"description": "FigTree CLI",
+	"keywords": [
+		"figtree",
+		"figtree-php",
+		"cli",
+		"terminal"
+	],
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Alan Ondra",
+			"email": "r.alan.ondra@gmail.com",
+			"role": "Creator"
+		}
+	],
+	"funding": [
+		{
+			"type": "github",
+			"url": "https://github.com/sponsors/alanondra"
+		}
+	],
+	"readme": "readme.md",
+	"support": {
+		"email": "figtree.php@gmail.com",
+		"source": "https://github.com/figtree-php/cli",
+		"issues": "https://github.com/figtree-php/cli/issues",
+		"wiki": "https://github.com/figtree-php/cli/wiki"
+	},
+	"autoload": {},
+	"require": {
+		"php": "^8.0"
+	},
+	"require-dev": {}
+}
